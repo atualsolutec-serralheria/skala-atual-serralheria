@@ -1,0 +1,11 @@
+ATUAL SERRALHERIA PRO — PROTÓTIPO FUNCIONAL
+
+1. Extraia o ZIP.
+2. Para publicar gratuitamente: crie um repositório público no GitHub, envie index.html, manifest.webmanifest, icon.svg e sw.js à raiz, e ative Settings > Pages > Deploy from a branch > main /root.
+3. Abra o endereço HTTPS fornecido pelo GitHub Pages. No Android, use a opção do navegador 'Adicionar à tela inicial' ou 'Instalar aplicativo'.
+4. Os dados ficam no armazenamento local de cada navegador. Use Exportar backup regularmente.
+5. Os valores iniciais são ILUSTRATIVOS. Ajuste-os antes de enviar qualquer orçamento.
+6. A calculadora atual é por área e NÃO contém lista técnica exata de corte e consumo de perfis. O desenho é esquemático.
+7. PDF: use Imprimir / salvar PDF no navegador.
+8. O aplicativo pode operar offline após o primeiro carregamento bem-sucedido em HTTPS.
+9. GitHub Pages publica os arquivos; não sincroniza os orçamentos entre aparelhos.
